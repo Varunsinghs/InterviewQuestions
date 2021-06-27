@@ -4,7 +4,7 @@ public class Reversestring {
 	
 	public static void main(String[] args) {
 		
-		String str = "I have the java's books";
+		String str = "I have the java's book";
 		String rev="";
 		
 		String[] word  =str.split("");
